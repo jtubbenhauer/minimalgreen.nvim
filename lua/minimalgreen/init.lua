@@ -1,5 +1,5 @@
 local M = {}
-local palette = require("colours").palette
+local palette = require("minimalgreen.colours").palette
 
 local function set_highlights()
 	local highlights = {
