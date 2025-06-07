@@ -123,7 +123,7 @@ local function set_highlights()
 	end
 end
 
-function M.setup()
+function M.load()
 	-- Reset existing highlights
 	vim.cmd("highlight clear")
 	if vim.fn.exists("syntax_on") then
