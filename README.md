@@ -16,7 +16,7 @@ A sleek, low-contrast green theme for Neovim—designed for clarity and minimal 
 
 ## Screenshots
 
-\_TODO
+![Screenshot](./screenshot-dark.png)
 
 ---
 
